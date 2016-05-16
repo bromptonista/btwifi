@@ -6,8 +6,8 @@
 # CONF
 
 DBG=true
-RELOG_UNAME=usernamehere
-RELOG_PASSW=passwordhere
+RELOG_UNAME=username
+RELOG_PASSW=password
 
 # END CONF
 
